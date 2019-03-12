@@ -1,2 +1,2 @@
-# CS61A-Fall-2016
-CS61A Fall 2016
+# CS61A
+CS61A
